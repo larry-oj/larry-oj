@@ -12,4 +12,4 @@ I am a responsible and accountable developer, eager to learn, improve and put my
 - Learning: Unity Game Engine, Design Patterns
 - Improving at: Design Patterns, OOP
 
-### How to reach me: [larryoj.tk](https://larryoj.tk/)
+### Contact me: [larryoj.tk](https://larryoj.tk/) or via email [me@larryoj.tk](mailto:me@larryoj.tk)
