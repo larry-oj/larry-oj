@@ -1,4 +1,4 @@
-# Hello! I am a Junior .NET Developer
+# Hello! I am a .NET Developer from SAM.Coach
 
 I am a responsible and accountable developer, eager to learn, improve and put my knowledge and skills to good use.
 
@@ -10,4 +10,3 @@ I am a responsible and accountable developer, eager to learn, improve and put my
 ## I am currently:
 - Learning: [Godot 4](https://godotengine.org/), Design Patterns
 - Improving at: Design Patterns, OOP
-- 
