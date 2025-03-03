@@ -10,3 +10,5 @@ I am a responsible and accountable developer, eager to learn, improve and put my
 ## I am currently:
 - Learning: [Godot 4](https://godotengine.org/), Design Patterns
 - Improving at: Design Patterns, OOP
+
+## Contact me: contact@l-oj.com
